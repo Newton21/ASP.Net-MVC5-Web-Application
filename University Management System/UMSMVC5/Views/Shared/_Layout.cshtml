@@ -1,0 +1,96 @@
+﻿@using UMSMVC5.Notifications
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/mvcNotify.css" rel="stylesheet" />
+    
+
+
+</head>
+    <body>
+        
+        <div id="messagewrapper" style="display: none">
+             @Html.RenderMessages()
+        </div>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Demo University", "Index", "Home", null, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        @*<li>@Html.ActionLink("Home", "Index", "Home")</li>*@
+                        <li>@Html.ActionLink("Department", "Index", "Department")</li>
+                        <li>@Html.ActionLink("Course", "Index", "Course")</li>
+                        <li>@Html.ActionLink("Teacher", "Index", "Teacher")</li>
+                        <li>@Html.ActionLink("Student", "Index", "Student")</li>
+                        <li>@Html.ActionLink("Course Assign", "Create", "CourseAssign")</li>
+                        <li>@Html.ActionLink("Course Status", "ViewCourseStatus", "CourseAssign")</li>
+                        <li>@Html.ActionLink("Enrollment", "Index", "Enrollment")</li>
+                        <li>@Html.ActionLink("Result Entry", "ResultEntry", "Result")</li>
+                        <li>@Html.ActionLink("View Result", "ViewResult", "Result")</li>
+                        @*<li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                    </ul>
+                    @*@Html.Partial("_LoginPartial")*@
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Demo university</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+        <script src="~/Scripts/mvcNotify.js"></script>
+        
+        <script type="text/javascript">
+
+        $(document).ready(function () {
+            displayMessages();
+        });
+
+        function displayMessage(message, messageType) {
+            $("#messagewrapper").html('<div class="messagebox ' + messageType.toLowerCase() + '"></div>');
+            $("#messagewrapper .messagebox").text(message);
+            displayMessages();
+        }
+
+        function displayMessages() {
+            if ($("#messagewrapper").children().length > 0) {
+                $("#messagewrapper").slideDown();
+                $(document).click(function () {
+                clearMessages();
+                });
+            }
+            else {
+                $("#messagewrapper").hide();
+            }
+        }
+
+        function clearMessages() {
+            $("#messagewrapper").fadeOut(4000, function () {
+                $("#messagewrapper").empty();
+            });
+        }
+
+        </script>
+
+    </body>
+</html>

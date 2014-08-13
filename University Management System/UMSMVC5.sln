@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMSMVC5", "UMSMVC5\UMSMVC5.csproj", "{1F0FF0B4-A373-42FB-923C-D33CCF22808E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0FF0B4-A373-42FB-923C-D33CCF22808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0FF0B4-A373-42FB-923C-D33CCF22808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0FF0B4-A373-42FB-923C-D33CCF22808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0FF0B4-A373-42FB-923C-D33CCF22808E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

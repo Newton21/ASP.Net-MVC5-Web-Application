@@ -1,0 +1,22 @@
+﻿@model UMSMVC5.Models.Student
+ 
+
+
+@if (Model!=null)
+{
+    <div id="StudentInfo">
+    <div class="editor-label">
+        <b>Name : @Model.Name</b>
+    </div>
+    <div class="editor-label">
+        <b>Email : @Model.Email</b>
+    </div>
+    <div class="editor-label">
+        <b>Dept : @Model.Department.DepartmentName</b>
+    </div>
+</div>
+
+}
+
+
+

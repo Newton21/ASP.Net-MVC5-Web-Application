@@ -1,0 +1,83 @@
+﻿@using UMSMVC5.Helpers
+@model IEnumerable<UMSMVC5.Models.Teacher>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+
+@Html.NoEncodeActionLink("<span class='glyphicon glyphicon-plus'></span>", "Add new Teacher", "Create", "Teacher", routeValues: null, htmlAttributes: new { @class = "btn btn-primary" })
+
+<h2>Teacher List</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+          Code
+        </th>
+        <th>
+           Designation
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreditsToBeTaken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreditsHaveTaken)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreditsRemaining)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Department.DepartmentCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Designation.DesignationName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeacherName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TeacherEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreditsToBeTaken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreditsHaveTaken)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreditsRemaining)
+        </td>
+        <td>
+            @*@Html.ActionLink("Edit", "Edit", new { id=item.TeacherId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TeacherId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TeacherId })*@
+            @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-pencil'></span>", "Edit", "Edit", "Teacher", routeValues: new { id = item.TeacherId }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+            @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-tasks'></span>", "Details", "Details", "Teacher", routeValues: new { id = item.TeacherId }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+            @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-trash'></span>", "Delete", "Delete", "Teacher", routeValues: new { id = item.TeacherId }, htmlAttributes: new { data_modal = "", @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

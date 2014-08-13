@@ -1,0 +1,39 @@
+﻿@model IEnumerable<UMSMVC5.Models.Course>
+
+<table class="table">
+    <tr>
+        <th>
+            Course Code
+        </th>
+        <th>
+           Course Name
+        </th>
+        <th>
+            Semester
+        </th>
+        <th>
+            Assigned To
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semester.SemesterName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignCourse)
+            </td>
+
+        </tr>
+    }
+
+</table>

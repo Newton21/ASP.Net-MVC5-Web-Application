@@ -1,0 +1,50 @@
+﻿@model UMSMVC5.Models.Enrollment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Enrollment</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course.CourseCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course.CourseCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Grade.GradeLetter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Grade.GradeLetter)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RegistrationId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RegistrationId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EnrollmentDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnrollmentDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EnrollmentId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

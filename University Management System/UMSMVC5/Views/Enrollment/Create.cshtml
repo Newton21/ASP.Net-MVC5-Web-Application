@@ -1,0 +1,99 @@
+﻿@model UMSMVC5.Models.Enrollment
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Enrollment</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RegistrationId, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model=>model.RegistrationId)
+                @Html.ValidationMessageFor(model => model.RegistrationId)
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <div class="col-md-10">
+                <div id="studentinformation">
+                    @*@Html.Partial("~/Views/Enrollment/_StudentInfo.cshtml")*@
+                </div>
+            </div>
+        </div>
+       
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", String.Empty)
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EnrollmentDate, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EnrollmentDate)
+                @Html.ValidationMessageFor(model => model.EnrollmentDate)
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script src="~/Scripts/bootstrap-datepicker.js"></script>
+
+    <script type="text/javascript">
+
+    $(function () {
+        $("#RegistrationId").keyup(function () {
+            var id = $("#RegistrationId").val();
+            $("#studentinformation").load("/Enrollment/StudentInfo", { RegistrationId: id });
+         
+          
+        });
+        
+
+        $("#EnrollmentDate").datepicker({
+
+            format: "mm/dd/yyyy",
+            todayBtn: "linked",
+            autoclose: true,
+            todayHighlight: true
+
+        });
+
+    });
+    
+
+
+</script>
+
+
+
+    
+
+}

@@ -1,0 +1,40 @@
+﻿/* Notification styles
+-----------------------------------------------------------*/
+#messagewrapper
+{
+    position: absolute;
+	z-index: 1000;
+	width: 100%;
+    margin-top: 0px;
+}
+
+
+#messagewrapper .success
+{
+   
+	background: green;
+    text-align: center;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#messagewrapper .warning
+{
+	width: 100%;
+    text-align: center;
+    font-size: 20px;
+	background: red;
+}
+
+
+#messagewrapper .error
+{
+	
+	
+    text-align: center;
+    font-size: 20px;
+	background: red;
+}
+

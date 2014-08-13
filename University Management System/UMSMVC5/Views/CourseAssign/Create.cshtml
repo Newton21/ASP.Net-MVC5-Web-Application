@@ -1,0 +1,286 @@
+﻿@model  UMSMVC5.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+
+    #Teacher-Data {
+        display: none;
+    }
+
+    #Course-Data {
+        display: none;
+    }
+
+   .success {
+        background-color: #a7d4f5;
+        color: #fff;
+        height: 20px;
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 16px;
+        padding: 5px;
+        text-align: center;
+        display: none;
+    }
+
+    .main {
+        width: 600px;
+        background-color: #f8f8f8;
+        margin: 0px auto;
+        padding: 10px;
+    }
+
+    #partialview {
+        background-color: #e8f1f7;
+        color: #000000;
+        position: relative;
+    }
+
+  
+
+</style>
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm("Create", "CourseAssign", FormMethod.Post, new { id = "ajaxform" })) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>CourseAssign</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        
+        <div class="form-group">
+            <label class="control-label col-md-2">Department</label>
+            <div class="col-md-10">
+                <select id="DepartmentId" name="DepartmentId" class="form-control" data-val-required="'Department must not be empty." data-val="true"></select>
+               
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="control-label col-md-2">Teacher</label>
+            <div class="col-md-10">
+                <select id="TeacherId" name="TeacherId" class="form-control" data-val-required="'Teacher must not be empty." data-val="true"></select>
+                @Html.ValidationMessageFor(model => model.TeacherId)
+            </div>
+        </div>
+        
+        <div class="form-group">
+           
+            <div class="col-md-10 col-md-offset-2">
+                <div id="Teacher-Data">
+
+                </div>
+
+            </div>
+        </div>
+        
+       
+        
+        <div class="form-group">
+            <label class="control-label col-md-2">Course</label>
+            <div class="col-md-10">
+                <select id="CourseId" name="CourseId" class="form-control" data-val-required="'Course must not be empty." data-val="true"></select>
+                @Html.ValidationMessageFor(model => model.CourseId)
+             </div>
+        </div>
+        
+        <div class="form-group">
+
+            <div class="col-md-10 col-md-offset-2">
+                <div id="Course-Data">
+
+                </div>
+
+            </div>
+        </div>
+
+      
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "CourseId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", String.Empty)
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>*@
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.TeacherId, "TeacherId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherId", String.Empty)
+                @Html.ValidationMessageFor(model => model.TeacherId)
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+                @*<input type="button" id="submit" value="Create" class="btn btn-default" />*@
+            </div>
+        </div>
+    </div>
+}
+
+
+<div id="progressDialog" style="display: none;">
+    @*<img src="~/Image/ajax-loader.gif" />*@
+    Please Wait ....
+</div>
+
+<div class="success">Saved</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    
+    
+    <script type="text/javascript">
+        
+        $(function () {
+            
+
+            $.getJSON("/CourseAssign/GetDepartmentList", function (data) {
+                var items = "<option></option>";
+                $.each(data, function (i, GetDepartmentList) {
+                    items += "<option value='" + GetDepartmentList.DepartmentId + "'>" + GetDepartmentList.DepartmentCode + "</option>";
+                });
+                $("#DepartmentId").html(items);
+            });
+        
+            $("#DepartmentId").change(function () {
+
+                Clear();
+            
+                var id = $("#DepartmentId").val();
+                if (id > 0) {
+                    var Param = { DepartmentId: $("#DepartmentId > option:selected").attr("value") };
+                    $.getJSON("/CourseAssign/GetTeacherList/", Param, function (data) {
+                        var items = "<option></option>";
+                        $.each(data, function (i, GetTeacherList) {
+                            items += "<option value='" + GetTeacherList.TeacherId + "'>" + GetTeacherList.TeacherName + "</option>";
+                        });
+                        $("#TeacherId").html(items);
+                    });
+                
+                    $.getJSON("/CourseAssign/GetCourseList/", Param, function (data) {
+                        var items = "<option></option>";
+                        $.each(data, function (i, GetCourseList) {
+                            items += "<option value='" + GetCourseList.CourseId + "'>" + GetCourseList.CourseCode + "</option>";
+                        });
+                        $("#CourseId").html(items);
+                    });
+
+                }
+                else {
+
+                    Clear();
+                }
+        
+           
+            });
+        
+        
+        
+            $("#TeacherId").change(function () {
+                var id = $("#TeacherId").val();
+                if (id>0) {
+                    $("#Teacher-Data").load("/CourseAssign/GetTeacherCreditInfo", { TeacherId: id }).show();
+                } else {
+                    $("#Teacher-Data").hide();
+                }
+           
+            });
+        
+            $("#CourseId").change(function () {
+                var id = $("#CourseId").val();
+                if (id > 0) {
+                    $("#Course-Data").load("/CourseAssign/GetCourseInfo", { CourseId: id }).show();
+                } else {
+                    $("#Course-Data").hide();
+                }
+
+            });
+
+            function Clear() {
+            
+                $("#Teacher-Data").hide();
+                $("#Course-Data").hide();
+                $('#TeacherId').find('option').remove();
+                $('#CourseId').find('option').remove();
+            };
+        
+
+
+
+
+
+        });
+
+    </script>
+    
+    
+    
+    
+    @*<script>
+
+        $(function() {
+         
+            $("#submit").click(function () {
+                
+
+                var t = $("#TeacherId").val();
+                var c = $("#CourseId").val();
+                alert(t);
+                alert(c);
+
+                if ($('#ajaxform').valid()) {
+                    $.ajax({
+                        url: "../CourseAssign/Create",
+                        type: "POST",
+                        //datatype: "json",
+                        contentType: 'application/json; charset=utf-8',
+                        async: true,
+                        data: {
+                            TeacherId: t,
+                            CourseId: c
+
+                        },
+                        beforeSend: function () {
+                            $("#progressDialog").show();
+                        },
+                        complete: function () {
+                            $("#progressDialog").hide();
+                        },
+                        success: function (result) {
+                            $(".success").slideDown(300).delay(800).slideUp(300);
+                            //$("#partialview").html(result);
+
+                        },
+                        error: function () {
+                          
+                            alert("Try Again");
+                        }
+
+                    });
+                }
+            });
+
+
+        });
+
+
+
+    </script>*@
+
+}

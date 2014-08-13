@@ -1,0 +1,48 @@
+﻿@model IEnumerable<UMSMVC5.Models.Course>
+
+@{
+    ViewBag.Title = "ViewCourseStatus";
+}
+
+
+<h2>View Course Status </h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <h2>Select Department </h2>
+        @Html.DropDownList("DepartmentId", String.Empty)
+    </div>
+}
+
+<br />
+
+<div id="course-data">
+    @Html.Partial("~/Views/CourseAssign/_CourseFilter.cshtml", Model)
+</div>
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+        @*function FillData(id) {
+            $('#course-data').load('@Url.Action("CourseFilter")', { departmentID: id });
+        }
+
+        $(function() {
+            $('#DepartmentId').change(function() {
+                var id = $('#DepartmentId').val();
+                FillData(id);
+            });
+        });*@
+        
+        $(function () {
+            $("#DepartmentId").change(function () {
+                var id = $("#DepartmentId").val();
+                $("#course-data").load("/CourseAssign/CourseFilter", { departmentID: id });
+            });
+        });
+
+    </script>
+
+}

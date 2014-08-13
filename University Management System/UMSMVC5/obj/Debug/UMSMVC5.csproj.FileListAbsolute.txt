@@ -1,0 +1,220 @@
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll.config
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.pdb
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Web.Infrastructure.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Owin.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\WebGrease.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.pdb
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.csprojResolveAssemblyReference.cache
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.dll
+E:\Github Repo\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.pdb
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll.config
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.pdb
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Owin.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\WebGrease.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.pdb
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.csprojResolveAssemblyReference.cache
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.dll
+C:\Users\nazmulrock\Desktop\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.pdb
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll.config
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.pdb
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Web.Infrastructure.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Owin.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\WebGrease.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.pdb
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.csprojResolveAssemblyReference.cache
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.dll
+D:\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.pdb
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll.config
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\UMSMVC5.pdb
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Web.Infrastructure.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Owin.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\WebGrease.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Helpers.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Mvc.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Optimization.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.Razor.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Deployment.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\System.Web.WebPages.Razor.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Newtonsoft.Json.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Antlr3.Runtime.pdb
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\EntityFramework.SqlServer.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Google.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.csprojResolveAssemblyReference.cache
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.dll
+D:\OOP Training\My Work\projects repository\OOP0147batch Projects\xCoder\xCoder\UMSMVC5\UMSMVC5\UMSMVC5\UMSMVC5\obj\Debug\UMSMVC5.pdb
